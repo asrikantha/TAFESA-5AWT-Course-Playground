@@ -1,0 +1,24 @@
+5AWT Week 6 Exercise – Version Tracking and GitHub
+Step 1: Create a GitHub Account
+If you don’t already have a GitHub Account, go to https://github.com to register and then login.
+You’ll need an email address to create the account.
+Step 2: Create new repository
+Click on the “+” on the upper right corner and click “New repository”
+Choose appropriate repository name e.g. “TAFESA-5AWT-Course-Playground” and a description.
+Initialize the repository with a README.
+Click “Create repository”. 
+Step 3: Create a new issue
+After you are in your newly created repository follow the steps below:
+• Go to Issues from the right side-menu
+• Click “New Issue”
+• Write a simple issue, label it as a bug and assign it to yourself
+• Click “Submit new issue”
+Click the “issues” button on the right hand side and confirm that the issue is now in the list.
+Create another 3 issues and verify that the list stores them all sequentially. 
+Step 4: Link a file to an issue
+Commit a file to the repository.
+Create new issue labelled as a bug and make note of the issue id. You can find the issue id
+when you open the issue and look at its title (the number after the # sign).
+Change something to the file and commit the changes. In the commit message refer to the
+issue id in the format “#issueId – some message here” e.g. “#5 – fixed negative money bug”.
+Open the issue and it should mention that it was mentioned from a file commit. 
